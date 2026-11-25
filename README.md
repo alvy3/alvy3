@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Alvy 👋
 
-<!--
-**alvy3/alvy3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Social Media Designer** creating clear, engaging visuals for digital brands.
 
-Here are some ideas to get you started:
+I bring ideas to life through thoughtful design made for the way people discover and connect with brands online.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I focus on
+
+- Social media graphics and campaign creatives
+- Brand-consistent visual storytelling
+- Content that feels cohesive across platforms
+
+I'm always interested in connecting with creative people and teams. Feel free to explore my work and say hello.
+
+---
+
+*Designing for the scroll, with the brand in mind.*
